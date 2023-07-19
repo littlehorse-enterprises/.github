@@ -1,8 +1,6 @@
 <p align="center">
-<img alt="LH" src="https://littlehorse.dev/img/logo.jpg" width="50%">
+<img alt="LH" src="https://littlehorse.dev/img/logo.jpg" width="30%">
 </p>
-
-# LittleHorse
 
 <a href="https://littlehorse.dev/"><img alt="littlehorse.dev" src="https://img.shields.io/badge/-LittleHorse.dev-7f7aff"></a>
 
