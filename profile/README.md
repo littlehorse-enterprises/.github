@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="LH" src="https://littlehorse.dev/img/logo.jpg" width="30%">
+<img alt="LH" src="https://raw.githubusercontent.com/littlehorse-enterprises/littlehorse/master/docs/images/black-logo-500px.png" width="30%">
 </p>
 
 <a href="https://github.com/littlehorse-enterprises/littlehorse"><img alt="github" src="https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white"></a>
