@@ -1,8 +1,6 @@
 <div align="center">
 <h1> LittleHorse Open-Source </h1>
 </div>
-<div align="center">
-
 
 <div align="center">
 <a href="https://littlehorse.io/"><img alt="littlehorse.io" src="../assets/site-badge.svg"/></a>
