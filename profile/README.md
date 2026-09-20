@@ -19,6 +19,7 @@ LittleHorse Enterprises also provides an enterprise platform for Business-as-Cod
 <a href="https://github.com/littlehorse-enterprises/lh-developer-hub"><img alt="lh-developer-hub" src="../assets/cards/lh-developer-hub.svg" width="400"></a>
 <a href="https://littlehorse.io/docs"><img alt="Documentation" src="../assets/cards/documentation.svg" width="400"></a>
 <a href="https://littlehorse.io/docs/getting-started/quickstart"><img alt="Quickstarts" src="../assets/cards/quickstarts.svg" width="400"></a>
+<a href="https://launchpass.com/littlehorsecommunity/free"><img alt="Slack Community" src="../assets/cards/slack-community.svg" width="400"></a>
 
 We recommend you start with the quickstart, which introduces you to the concept of Business-as-Code. You can explore from there!
 

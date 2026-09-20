@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150">
   <rect x="1" y="1" width="398" height="148" rx="8" fill="#fff" stroke="#d0d7de" stroke-width="2"/>
   <g font-family="Arial, sans-serif">
-    <text x="24" y="38" fill="#0969da" font-size="19" font-weight="600">Documentation</text>
+    <path d="M24 21h7a4 4 0 0 1 4 4v14h-7a4 4 0 0 0-4 2V21Zm16 0h-3a4 4 0 0 0-2 1 4 4 0 0 0-2-1h-3v-2h3a6 6 0 0 1 2 .35A6 6 0 0 1 37 19h3v2Zm6 0h-7a4 4 0 0 0-4 4v14h7a4 4 0 0 1 4 2V21Z" fill="#24292f"/>
+    <text x="54" y="38" fill="#0969da" font-size="19" font-weight="600">Documentation</text>
     <text x="24" y="70" fill="#24292f" font-size="14">Documentation is available on our website.</text>
   </g>
 </svg>
