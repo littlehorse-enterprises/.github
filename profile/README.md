@@ -1,4 +1,10 @@
 <div align="center">
+<h1> LittleHorse Open-Source </h1>
+</div>
+<div align="center">
+
+
+<div align="center">
 <a href="https://littlehorse.io/"><img alt="littlehorse.io" src="../assets/site-badge.svg"/></a>
 <a href="https://littlehorse.io/docs/getting-started/quickstart"><img alt="littlehorse.io/learn" src="../assets/learn-badge.svg"/></a>
 <a href="https://littlehorse.io/docs"><img alt="littlehorse.io/docs" src="../assets/docs-badge.svg"/></a>
@@ -12,10 +18,9 @@ LittleHorse maintains an open-source platform for Business-as-Code, based on the
 
 LittleHorse Enterprises also provides an enterprise platform for Business-as-Code: the [Saddle Command Center](https://littlehorse.io/products/saddle-command-center), which includes pre-built task workers, connectors, integrations, and low-code GUIs to accelerate Business-as-Code deployments at an enterprise.
 
-## Get Started
-
-### The Essentials
-
+<div align="center">
+<h2> Get Started </h2>
+</div>
 <div align="center">
 <kbd><a href="https://littlehorse.io/docs/getting-started/quickstart">📖 <strong>START HERE: Quickstarts</strong></a></kbd>
 
@@ -107,9 +112,6 @@ The process of running workflows in LittleHorse is simple:
 
 ## FAQ
 
-- [Get Started](#get-started)
-  - [The Essentials](#the-essentials)
-  - [Our Open Platform](#our-open-platform)
 - [What is Business-as-Code?](#what-is-business-as-code)
 - [FAQ](#faq)
   - [How is Business-as-Code different from Infrastructure-as-Code?](#how-is-business-as-code-different-from-infrastructure-as-code)
