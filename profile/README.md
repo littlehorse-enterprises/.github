@@ -20,10 +20,12 @@ LittleHorse Enterprises also provides an enterprise platform for Business-as-Cod
 <kbd><a href="https://littlehorse.io/docs/getting-started/quickstart">📖 <strong>START HERE: Quickstarts</strong></a></kbd>
 
 <br/>
+
 <kbd><a href="https://github.com/littlehorse-enterprises/lh-developer-hub"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> lh-developer-hub</a></kbd>
 <kbd><a href="https://littlehorse.io/docs">📖 Documentation</a></kbd>
 <kbd><a href="https://launchpass.com/littlehorsecommunity/free">💬 Slack Community</a></kbd>
 </div>
+
 
 ### Our Open Platform
 
@@ -33,11 +35,13 @@ The following repositories contain the most important components of our open-sou
 <kbd><a href="https://github.com/littlehorse-enterprises/littlehorse"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> <strong>CORE: littlehorse</strong></a></kbd>
 
 <br/>
+
 <kbd><a href="https://github.com/littlehorse-enterprises/lh-agent-connector"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> lh-agent-connector</a></kbd>
 <kbd><a href="https://github.com/littlehorse-enterprises/lh-quarkus"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> lh-quarkus</a></kbd>
 <kbd><a href="https://github.com/littlehorse-enterprises/lh-kafka-connect"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> lh-kafka-connect</a></kbd>
 <kbd><a href="https://github.com/littlehorse-enterprises/lh-user-tasks-bridge"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> lh-user-tasks-bridge</a></kbd>
 </div>
+
 
 - `littlehorse` contains the code for the LittleHorse Server, which is the core of our Business-as-Code platform.
 - `lh-agent-connector` contains a pre-built Task Worker that uses LangChain to implement the [Decision Worker Pattern](https://littlehorse.io/blog/decision-workers).
