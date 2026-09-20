@@ -11,6 +11,10 @@
 
 Our Business-as-Code approach lets you write code in a language of your choice (Java, Python, Go, C#, Typescript) to specify processes which are durably orchestrated across your systems. We enable Business-as-Code primarily through the [LittleHorse Server](https://github.com/littlehorse-enterprises/littlehorse) which is our distributed workflow engine for Business-as-Code. Business-as-Code provides a higher level of abstraction for software engineers to work closer to the business process and (therefore) closer to _business value._
 
+## Get Started
+
+Build and run your first workflow with the [LittleHorse quickstart](https://littlehorse.io/docs/getting-started/quickstart). Its runnable Java, Python, Go, and .NET projects live in the [LittleHorse Developer Hub](https://github.com/littlehorse-enterprises/lh-developer-hub), alongside more examples and coding-agent skills.
+
 
 ## What is Business-as-Code?
 
