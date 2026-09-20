@@ -16,12 +16,9 @@ LittleHorse Enterprises also provides an enterprise platform for Business-as-Cod
 
 ### The Essentials
 
-The [lh-developer-hub](https://github.com/littlehorse-enterprises/lh-developer-hub) contains examples, agent skills, and quickstarts. Everything you need to become a Business-as-Code expert. **This is probably the only repository you need to download to use LittleHorse well.**
-
-<a href="https://github.com/littlehorse-enterprises/lh-developer-hub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-developer-hub&show_icons=true&theme=dark"><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-developer-hub&show_icons=true"><img alt="lh-developer-hub repository" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-developer-hub&show_icons=true"></picture></a>
-
-- [Documentation](https://littlehorse.io/docs) is available on our website.
-- [Quickstarts](https://littlehorse.io/docs/getting-started/quickstart) are available for all components of the LittleHorse platform.
+<a href="https://github.com/littlehorse-enterprises/lh-developer-hub"><img alt="lh-developer-hub" src="../assets/cards/lh-developer-hub.svg" width="400"></a>
+<a href="https://littlehorse.io/docs"><img alt="Documentation" src="../assets/cards/documentation.svg" width="400"></a>
+<a href="https://littlehorse.io/docs/getting-started/quickstart"><img alt="Quickstarts" src="../assets/cards/quickstarts.svg" width="400"></a>
 
 We recommend you start with the quickstart, which introduces you to the concept of Business-as-Code. You can explore from there!
 
@@ -29,11 +26,11 @@ We recommend you start with the quickstart, which introduces you to the concept 
 
 The following repositories contain the most important components of our open-source platform (and they are also crucial components of our _Saddle Command Center_ product).
 
-<a href="https://github.com/littlehorse-enterprises/littlehorse"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=littlehorse&show_icons=true&theme=dark"><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=littlehorse&show_icons=true"><img alt="littlehorse repository" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=littlehorse&show_icons=true"></picture></a>
-<a href="https://github.com/littlehorse-enterprises/lh-agent-connector"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-agent-connector&show_icons=true&theme=dark"><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-agent-connector&show_icons=true"><img alt="lh-agent-connector repository" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-agent-connector&show_icons=true"></picture></a>
-<a href="https://github.com/littlehorse-enterprises/lh-quarkus"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-quarkus&show_icons=true&theme=dark"><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-quarkus&show_icons=true"><img alt="lh-quarkus repository" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-quarkus&show_icons=true"></picture></a>
-<a href="https://github.com/littlehorse-enterprises/lh-kafka-connect"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-kafka-connect&show_icons=true&theme=dark"><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-kafka-connect&show_icons=true"><img alt="lh-kafka-connect repository" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-kafka-connect&show_icons=true"></picture></a>
-<a href="https://github.com/littlehorse-enterprises/lh-user-tasks-bridge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-user-tasks-bridge&show_icons=true&theme=dark"><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-user-tasks-bridge&show_icons=true"><img alt="lh-user-tasks-bridge repository" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=littlehorse-enterprises&repo=lh-user-tasks-bridge&show_icons=true"></picture></a>
+<a href="https://github.com/littlehorse-enterprises/littlehorse"><img alt="littlehorse" src="../assets/cards/littlehorse.svg" width="400"></a>
+<a href="https://github.com/littlehorse-enterprises/lh-agent-connector"><img alt="lh-agent-connector" src="../assets/cards/lh-agent-connector.svg" width="400"></a>
+<a href="https://github.com/littlehorse-enterprises/lh-quarkus"><img alt="lh-quarkus" src="../assets/cards/lh-quarkus.svg" width="400"></a>
+<a href="https://github.com/littlehorse-enterprises/lh-kafka-connect"><img alt="lh-kafka-connect" src="../assets/cards/lh-kafka-connect.svg" width="400"></a>
+<a href="https://github.com/littlehorse-enterprises/lh-user-tasks-bridge"><img alt="lh-user-tasks-bridge" src="../assets/cards/lh-user-tasks-bridge.svg" width="400"></a>
 
 ## What is Business-as-Code?
 
