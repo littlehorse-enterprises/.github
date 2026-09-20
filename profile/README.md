@@ -105,6 +105,16 @@ The process of running workflows in LittleHorse is simple:
 
 ## FAQ
 
+- [How is Business-as-Code different from Infrastructure-as-Code?](#how-is-business-as-code-different-from-infrastructure-as-code)
+- [How is Business-as-Code different from Durable Execution like Restate, DBOS, or Temporal?](#how-is-business-as-code-different-from-durable-execution-like-restate-dbos-or-temporal)
+- [Does LittleHorse fit in with Kafka?](#does-littlehorse-fit-in-with-kafka)
+- [Do I need Business-as-Code if I don't read the code anymore?](#do-i-need-business-as-code-if-i-dont-read-the-code-anymore)
+- [How does Business-as-Code help me orchestrate agents?](#how-does-business-as-code-help-me-orchestrate-agents)
+- [How does Business-as-Code help manage the mountain of new code built by agents?](#how-does-business-as-code-help-manage-the-mountain-of-new-code-built-by-agents)
+- [Is LittleHorse fast? Does it scale?](#is-littlehorse-fast-does-it-scale)
+- [How do I deploy LittleHorse?](#how-do-i-deploy-littlehorse)
+- [If LittleHorse is Open-Source, how do you make money?](#if-littlehorse-is-open-source-how-do-you-make-money)
+
 ### How is Business-as-Code different from Infrastructure-as-Code?
 
 Infrastructure-as-Code brings governance, observability, version-control, and automation to devops, which is the process of provisioning infrastructure and deploying applications. Business-as-Code provides the same exact benefits (!!) but in a different space: business process orchestration.
