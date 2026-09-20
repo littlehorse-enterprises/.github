@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="280" height="150" viewBox="0 0 280 150">
-  <rect x="1.5" y="1.5" width="277" height="147" rx="8" fill="#fffaf0" stroke="#b8860b" stroke-width="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="180" viewBox="0 0 280 180">
+  <rect x="1.5" y="1.5" width="277" height="177" rx="8" fill="#fffaf0" stroke="#b8860b" stroke-width="3"/>
   <g font-family="Arial, sans-serif">
     <path d="M24 21h7a4 4 0 0 1 4 4v14h-7a4 4 0 0 0-4 2V21Zm16 0h-3a4 4 0 0 0-2 1 4 4 0 0 0-2-1h-3v-2h3a6 6 0 0 1 2 .35A6 6 0 0 1 37 19h3v2Zm6 0h-7a4 4 0 0 0-4 4v14h7a4 4 0 0 1 4 2V21Z" fill="#8a6508"/>
     <text x="54" y="38" fill="#8a6508" font-size="19" font-weight="600">Quickstarts</text>
     <text x="24" y="70" fill="#24292f" font-size="14">
       <tspan x="24" dy="0">Quickstarts are available for all</tspan>
-      <tspan x="24" dy="21">components of the LittleHorse platform.</tspan>
+      <tspan x="24" dy="21">components of the LittleHorse</tspan>
+      <tspan x="24" dy="21">platform.</tspan>
     </text>
   </g>
 </svg>

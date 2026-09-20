@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="280" height="150" viewBox="0 0 280 150">
-  <rect x="1" y="1" width="278" height="148" rx="8" fill="#fff" stroke="#d0d7de" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="180" viewBox="0 0 280 180">
+  <rect x="1" y="1" width="278" height="178" rx="8" fill="#fff" stroke="#d0d7de" stroke-width="2"/>
   <g font-family="Arial, sans-serif">
     <path d="M32 20a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.87c-2.78.6-3.37-1.18-3.37-1.18-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.34 1.09 2.91.83.09-.65.35-1.09.64-1.34-2.22-.25-4.56-1.11-4.56-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02A9.56 9.56 0 0 1 32 24.82c.85 0 1.7.11 2.5.34 1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.86v2.76c0 .27.18.58.69.48A10 10 0 0 0 32 20Z" fill="#24292f"/>
     <text x="50" y="38" fill="#0969da" font-size="19" font-weight="600">lh-kafka-connect</text>
     <text x="24" y="70" fill="#24292f" font-size="14">
-      <tspan x="24" dy="0">Connectors for Apache Kafka Connect to</tspan>
-      <tspan x="24" dy="21">start WfRuns and post ExternalEvents in</tspan>
-      <tspan x="24" dy="21">the LittleHorse Server.</tspan>
+      <tspan x="24" dy="0">Connectors for Apache Kafka</tspan>
+      <tspan x="24" dy="21">Connect to start WfRuns and post</tspan>
+      <tspan x="24" dy="21">ExternalEvents in the LittleHorse</tspan>
+      <tspan x="24" dy="21">Server.</tspan>
     </text>
   </g>
 </svg>

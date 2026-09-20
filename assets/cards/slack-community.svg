@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="280" height="150" viewBox="0 0 280 150">
-  <rect x="1" y="1" width="278" height="148" rx="8" fill="#fff" stroke="#d0d7de" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="180" viewBox="0 0 280 180">
+  <rect x="1" y="1" width="278" height="178" rx="8" fill="#fff" stroke="#d0d7de" stroke-width="2"/>
   <g font-family="Arial, sans-serif">
     <path d="M25 21h20a3 3 0 0 1 3 3v11a3 3 0 0 1-3 3H34l-6 5v-5h-3a3 3 0 0 1-3-3V24a3 3 0 0 1 3-3Z" fill="#611f69"/>
     <circle cx="29" cy="30" r="2" fill="#fff"/><circle cx="35" cy="30" r="2" fill="#fff"/><circle cx="41" cy="30" r="2" fill="#fff"/>
     <text x="58" y="38" fill="#611f69" font-size="19" font-weight="600">Slack Community</text>
     <text x="24" y="70" fill="#24292f" font-size="14">
-      <tspan x="24" dy="0">Join the LittleHorse community on Slack.</tspan>
-      <tspan x="24" dy="21">Ask questions, share ideas, and meet</tspan>
-      <tspan x="24" dy="21">other users.</tspan>
+      <tspan x="24" dy="0">Join the LittleHorse community</tspan>
+      <tspan x="24" dy="21">on Slack. Ask questions, share</tspan>
+      <tspan x="24" dy="21">ideas, and meet other users.</tspan>
     </text>
   </g>
 </svg>

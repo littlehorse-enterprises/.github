@@ -16,13 +16,13 @@ LittleHorse Enterprises also provides an enterprise platform for Business-as-Cod
 
 ### The Essentials
 
-<a href="https://littlehorse.io/docs/getting-started/quickstart"><img alt="Quickstarts" src="../assets/cards/quickstarts.svg?v=4" width="280"></a>
+<a href="https://littlehorse.io/docs/getting-started/quickstart"><img alt="Quickstarts" src="../assets/cards/quickstarts.svg?v=5" width="280"></a>
 
 <br/>
 
-<a href="https://github.com/littlehorse-enterprises/lh-developer-hub"><img alt="lh-developer-hub" src="../assets/cards/lh-developer-hub.svg?v=4" width="280"></a>
-<a href="https://littlehorse.io/docs"><img alt="Documentation" src="../assets/cards/documentation.svg?v=4" width="280"></a>
-<a href="https://launchpass.com/littlehorsecommunity/free"><img alt="Slack Community" src="../assets/cards/slack-community.svg?v=4" width="280"></a>
+<a href="https://github.com/littlehorse-enterprises/lh-developer-hub"><img alt="lh-developer-hub" src="../assets/cards/lh-developer-hub.svg?v=5" width="280"></a>
+<a href="https://littlehorse.io/docs"><img alt="Documentation" src="../assets/cards/documentation.svg?v=5" width="280"></a>
+<a href="https://launchpass.com/littlehorsecommunity/free"><img alt="Slack Community" src="../assets/cards/slack-community.svg?v=5" width="280"></a>
 
 We recommend you start with the quickstart, which introduces you to the concept of Business-as-Code. You can explore from there!
 
@@ -30,14 +30,14 @@ We recommend you start with the quickstart, which introduces you to the concept 
 
 The following repositories contain the most important components of our open-source platform (and they are also crucial components of our _Saddle Command Center_ product).
 
-<a href="https://github.com/littlehorse-enterprises/littlehorse"><img alt="littlehorse" src="../assets/cards/littlehorse.svg?v=4" width="280"></a>
+<a href="https://github.com/littlehorse-enterprises/littlehorse"><img alt="littlehorse" src="../assets/cards/littlehorse.svg?v=5" width="280"></a>
 
 <br/>
 
-<a href="https://github.com/littlehorse-enterprises/lh-agent-connector"><img alt="lh-agent-connector" src="../assets/cards/lh-agent-connector.svg?v=4" width="280"></a>
-<a href="https://github.com/littlehorse-enterprises/lh-quarkus"><img alt="lh-quarkus" src="../assets/cards/lh-quarkus.svg?v=4" width="280"></a>
-<a href="https://github.com/littlehorse-enterprises/lh-kafka-connect"><img alt="lh-kafka-connect" src="../assets/cards/lh-kafka-connect.svg?v=4" width="280"></a>
-<a href="https://github.com/littlehorse-enterprises/lh-user-tasks-bridge"><img alt="lh-user-tasks-bridge" src="../assets/cards/lh-user-tasks-bridge.svg?v=4" width="280"></a>
+<a href="https://github.com/littlehorse-enterprises/lh-agent-connector"><img alt="lh-agent-connector" src="../assets/cards/lh-agent-connector.svg?v=5" width="280"></a>
+<a href="https://github.com/littlehorse-enterprises/lh-quarkus"><img alt="lh-quarkus" src="../assets/cards/lh-quarkus.svg?v=5" width="280"></a>
+<a href="https://github.com/littlehorse-enterprises/lh-kafka-connect"><img alt="lh-kafka-connect" src="../assets/cards/lh-kafka-connect.svg?v=5" width="280"></a>
+<a href="https://github.com/littlehorse-enterprises/lh-user-tasks-bridge"><img alt="lh-user-tasks-bridge" src="../assets/cards/lh-user-tasks-bridge.svg?v=5" width="280"></a>
 
 ## What is Business-as-Code?
 
