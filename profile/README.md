@@ -19,8 +19,7 @@ LittleHorse Enterprises also provides an enterprise platform for Business-as-Cod
 <div align="center">
 <kbd><a href="https://littlehorse.io/docs/getting-started/quickstart">📖 <strong>START HERE: Quickstarts</strong></a></kbd>
 
-<br/> <br/>
-
+<br/>
 <kbd><a href="https://github.com/littlehorse-enterprises/lh-developer-hub"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> lh-developer-hub</a></kbd>
 <kbd><a href="https://littlehorse.io/docs">📖 Documentation</a></kbd>
 <kbd><a href="https://launchpass.com/littlehorsecommunity/free">💬 Slack Community</a></kbd>
@@ -33,8 +32,7 @@ The following repositories contain the most important components of our open-sou
 <div align="center">
 <kbd><a href="https://github.com/littlehorse-enterprises/littlehorse"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> <strong>CORE: littlehorse</strong></a></kbd>
 
-<br/> <br/>
-
+<br/>
 <kbd><a href="https://github.com/littlehorse-enterprises/lh-agent-connector"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> lh-agent-connector</a></kbd>
 <kbd><a href="https://github.com/littlehorse-enterprises/lh-quarkus"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> lh-quarkus</a></kbd>
 <kbd><a href="https://github.com/littlehorse-enterprises/lh-kafka-connect"><img src="https://github.githubassets.com/favicons/favicon.png" width="14" alt="GitHub"> lh-kafka-connect</a></kbd>
@@ -105,15 +103,20 @@ The process of running workflows in LittleHorse is simple:
 
 ## FAQ
 
-- [How is Business-as-Code different from Infrastructure-as-Code?](#how-is-business-as-code-different-from-infrastructure-as-code)
-- [How is Business-as-Code different from Durable Execution like Restate, DBOS, or Temporal?](#how-is-business-as-code-different-from-durable-execution-like-restate-dbos-or-temporal)
-- [Does LittleHorse fit in with Kafka?](#does-littlehorse-fit-in-with-kafka)
-- [Do I need Business-as-Code if I don't read the code anymore?](#do-i-need-business-as-code-if-i-dont-read-the-code-anymore)
-- [How does Business-as-Code help me orchestrate agents?](#how-does-business-as-code-help-me-orchestrate-agents)
-- [How does Business-as-Code help manage the mountain of new code built by agents?](#how-does-business-as-code-help-manage-the-mountain-of-new-code-built-by-agents)
-- [Is LittleHorse fast? Does it scale?](#is-littlehorse-fast-does-it-scale)
-- [How do I deploy LittleHorse?](#how-do-i-deploy-littlehorse)
-- [If LittleHorse is Open-Source, how do you make money?](#if-littlehorse-is-open-source-how-do-you-make-money)
+- [Get Started](#get-started)
+  - [The Essentials](#the-essentials)
+  - [Our Open Platform](#our-open-platform)
+- [What is Business-as-Code?](#what-is-business-as-code)
+- [FAQ](#faq)
+  - [How is Business-as-Code different from Infrastructure-as-Code?](#how-is-business-as-code-different-from-infrastructure-as-code)
+  - [How is Business-as-Code different from Durable Execution like Restate, DBOS, or Temporal?](#how-is-business-as-code-different-from-durable-execution-like-restate-dbos-or-temporal)
+  - [Does LittleHorse fit in with Kafka?](#does-littlehorse-fit-in-with-kafka)
+  - [Do I need Business-as-Code if I don't read the code anymore?](#do-i-need-business-as-code-if-i-dont-read-the-code-anymore)
+  - [How does Business-as-Code help me orchestrate agents?](#how-does-business-as-code-help-me-orchestrate-agents)
+  - [How does Business-as-Code help manage the mountain of new code built by agents?](#how-does-business-as-code-help-manage-the-mountain-of-new-code-built-by-agents)
+  - [Is LittleHorse fast? Does it scale?](#is-littlehorse-fast-does-it-scale)
+  - [How do I deploy LittleHorse?](#how-do-i-deploy-littlehorse)
+  - [If LittleHorse is Open-Source, how do you make money?](#if-littlehorse-is-open-source-how-do-you-make-money)
 
 ### How is Business-as-Code different from Infrastructure-as-Code?
 
