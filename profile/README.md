@@ -16,13 +16,29 @@ LittleHorse Enterprises also provides an enterprise platform for Business-as-Cod
 
 ### The Essentials
 
-<a href="https://littlehorse.io/docs/getting-started/quickstart"><img alt="Quickstarts" src="../assets/cards/quickstarts.svg?v=6" width="280"></a>
-
-<br/>
-
-<a href="https://github.com/littlehorse-enterprises/lh-developer-hub"><img alt="lh-developer-hub" src="../assets/cards/lh-developer-hub.svg?v=6" width="280"></a>
-<a href="https://littlehorse.io/docs"><img alt="Documentation" src="../assets/cards/documentation.svg?v=6" width="280"></a>
-<a href="https://launchpass.com/littlehorsecommunity/free"><img alt="Slack Community" src="../assets/cards/slack-community.svg?v=6" width="280"></a>
+<table>
+  <tr>
+    <td colspan="3" valign="top">
+      <h3>📖 <a href="https://littlehorse.io/docs/getting-started/quickstart">Quickstarts</a></h3>
+      <p><strong>Recommended starting point.</strong> Quickstarts are available for all components of the LittleHorse platform.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><img src="https://github.githubassets.com/favicons/favicon.png" width="18" alt="GitHub"> <a href="https://github.com/littlehorse-enterprises/lh-developer-hub">lh-developer-hub</a></h3>
+      <p>Examples, agent skills, and quickstarts. Everything you need to become a Business-as-Code expert.</p>
+      <p><strong>This is probably the only repository you need to use LittleHorse well.</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📖 <a href="https://littlehorse.io/docs">Documentation</a></h3>
+      <p>Documentation is available on our website.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💬 <a href="https://launchpass.com/littlehorsecommunity/free">Slack Community</a></h3>
+      <p>Join the LittleHorse community on Slack. Ask questions, share ideas, and meet other users.</p>
+    </td>
+  </tr>
+</table>
 
 We recommend you start with the quickstart, which introduces you to the concept of Business-as-Code. You can explore from there!
 
@@ -30,14 +46,36 @@ We recommend you start with the quickstart, which introduces you to the concept 
 
 The following repositories contain the most important components of our open-source platform (and they are also crucial components of our _Saddle Command Center_ product).
 
-<a href="https://github.com/littlehorse-enterprises/littlehorse"><img alt="littlehorse" src="../assets/cards/littlehorse.svg?v=6" width="280"></a>
-
-<br/>
-
-<a href="https://github.com/littlehorse-enterprises/lh-agent-connector"><img alt="lh-agent-connector" src="../assets/cards/lh-agent-connector.svg?v=6" width="280"></a>
-<a href="https://github.com/littlehorse-enterprises/lh-quarkus"><img alt="lh-quarkus" src="../assets/cards/lh-quarkus.svg?v=6" width="280"></a>
-<a href="https://github.com/littlehorse-enterprises/lh-kafka-connect"><img alt="lh-kafka-connect" src="../assets/cards/lh-kafka-connect.svg?v=6" width="280"></a>
-<a href="https://github.com/littlehorse-enterprises/lh-user-tasks-bridge"><img alt="lh-user-tasks-bridge" src="../assets/cards/lh-user-tasks-bridge.svg?v=6" width="280"></a>
+<table>
+  <tr>
+    <td colspan="3" valign="top">
+      <h3><img src="https://github.githubassets.com/favicons/favicon.png" width="18" alt="GitHub"> <a href="https://github.com/littlehorse-enterprises/littlehorse">littlehorse</a></h3>
+      <p><strong>The core of our open platform.</strong> Contains the code for the LittleHorse Server and our Business-as-Code platform.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><img src="https://github.githubassets.com/favicons/favicon.png" width="18" alt="GitHub"> <a href="https://github.com/littlehorse-enterprises/lh-agent-connector">lh-agent-connector</a></h3>
+      <p>A pre-built Task Worker that uses LangChain to implement the Decision Worker Pattern.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><img src="https://github.githubassets.com/favicons/favicon.png" width="18" alt="GitHub"> <a href="https://github.com/littlehorse-enterprises/lh-quarkus">lh-quarkus</a></h3>
+      <p>Quarkus extensions that make it really easy to write LittleHorse applications in Java.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><img src="https://github.githubassets.com/favicons/favicon.png" width="18" alt="GitHub"> <a href="https://github.com/littlehorse-enterprises/lh-kafka-connect">lh-kafka-connect</a></h3>
+      <p>Connectors for Apache Kafka Connect to start <code>WfRun</code>s and post <code>ExternalEvent</code>s in the LittleHorse Server.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><img src="https://github.githubassets.com/favicons/favicon.png" width="18" alt="GitHub"> <a href="https://github.com/littlehorse-enterprises/lh-user-tasks-bridge">lh-user-tasks-bridge</a></h3>
+      <p>Connects your OIDC provider to the LittleHorse Server's User Tasks capability, mapping user identities to assigned tasks.</p>
+    </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
 ## What is Business-as-Code?
 
