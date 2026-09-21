@@ -29,8 +29,9 @@ LittleHorse Enterprises also provides an enterprise platform for Business-as-Cod
 <kbd><a href="https://launchpass.com/littlehorsecommunity/free">💬 Slack Community</a></kbd>
 </div>
 
-
-### Our Open Platform
+<div align="center">
+<h3>Our Open Platform</h3>
+</div>
 
 The following repositories contain the most important components of our open-source platform (and they are also crucial components of our _Saddle Command Center_ product).
 
@@ -52,7 +53,9 @@ The following repositories contain the most important components of our open-sou
 - `lh-kafka-connect` contains Connectors for Apache Kafka Connect to start `WfRun`s and post `ExternalEvent`s in the LittleHorse Server.
 - `lh-user-tasks-bridge` connects your OIDC provider to the LittleHorse Server's [User Tasks](https://littlehorse.io/docs/server/concepts/user-tasks) capability, mapping user identities to assigned tasks.
 
-## What is Business-as-Code?
+<div align="center">
+<h2>What Is Business-as-Code?</h3>
+</div>
 
 **Business-as-Code** is the practice of using code to define and orchestrate processes across multiple systems and people. Software engineers use Business-as-Code to orchestrate flows involving external SaaS APIs, microservices, event queues, agents, and human steps.
 
@@ -108,7 +111,9 @@ The process of running workflows in LittleHorse is simple:
 <img src="../assets/architecture.png" width="75%">
 </p>
 
-## FAQ
+<div align="center">
+<h2>FAQ</h3>
+</div>
 
 - [How is Business-as-Code different from Infrastructure-as-Code?](#how-is-business-as-code-different-from-infrastructure-as-code)
 - [How is Business-as-Code different from Durable Execution like Restate, DBOS, or Temporal?](#how-is-business-as-code-different-from-durable-execution-like-restate-dbos-or-temporal)
