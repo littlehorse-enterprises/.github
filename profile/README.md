@@ -153,7 +153,7 @@ Kafka is great for event streaming and messaging, but it's not the best solution
 
 ### Do I need Business-as-Code if I don't read the code anymore?
 
-In many cases, it's faster to not read the code that Claude writes! Business-as-Code actually makes it safer to do that. When Claude writes a `WfSpec`, the LittleHorse dashboard _deterministically_ visualizes the exact business logic written in that `WfSpec`. You can easily (visually) verify the way all of your sub-systems are composed together into a workflow rater than having to chase down the connection logic through opaque code and queue consumers.
+You don't necessarily need to read the code, but you absolutely do need to understand your systems. Business-as-Code actually makes it easier to understand the code that Claude writes. When Claude writes a `WfSpec`, the LittleHorse dashboard _deterministically_ visualizes the exact business logic written in that `WfSpec`. You can easily (visually) verify the way all of your sub-systems are composed together into a workflow rater than having to chase down the connection logic through opaque code and queue consumers.
 
 ### How does Business-as-Code help me orchestrate agents?
 
